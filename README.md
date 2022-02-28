@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/IvanARodriguez/IvanARodriguez/main/bannerReadme.png)
+![](https://raw.githubusercontent.com/IvanARodriguez/IvanARodriguez/main/bannerReadme1.png)
 
 
 # Hi there, I am Ivan 👨🏽‍💻
