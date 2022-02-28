@@ -63,7 +63,7 @@
 <img alt="Git" width="40px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="45px" height=""100% src="https://img.icons8.com/ios-glyphs/240/ffffff/github.png">
+<img alt="github" width="40px" src="https://img.icons8.com/ios-glyphs/240/ffffff/github.png">
 </code>](https://github.com/)
 
 > Operative Systems:
