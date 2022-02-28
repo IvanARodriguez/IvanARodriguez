@@ -114,7 +114,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <p align="center">
 <a href="https://twitter.com/ivanarodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanarodriguez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ivanrodriguezcalvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanrodriguezcalvo" height="30" width="40" /></a>
-<a href="https://instagram.com/ivancitooficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivancitooficial" height="30" width="40" /></a>
+<a href="https://instagram.com/ivancitoofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivancitooficial" height="30" width="40" /></a>
 </p>
 
 ---
