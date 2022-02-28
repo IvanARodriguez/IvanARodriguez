@@ -10,89 +10,88 @@
 ### Languages and Tools:
 
 > Coding in:
-
-[<code>
+<a href="https://code.visualstudio.com" target="_blank">
 <img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img alt="javascript" width="40px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
 <img alt="html5" width="40px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img alt="css3" width="40px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
+</a>
+<a href="https://docs.microsoft.com/en-us/azure/?product=popular" target="_blank">
 <img alt="CSharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png">
-</code>](https://docs.microsoft.com/en-us/azure/?product=popular)
-[<code>
+</a>
+<a href="https://nodejs.org/en/" target="_blank">
 <img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
+</a>
+<a href="https://dev.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</code>](https://dev.mysql.com/)
+</a>
 
-[<code>
+<a href="" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-</code>]
-[<code>
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-</code>](https://dotnet.microsoft.com/)
-[<code>
+</a>
+<a href="https://expressjs.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</code>](https://expressjs.com)
-[<code>
+</a>
+<a href="https://figma.com" target="_blank">
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</code>](https://figma.com)
-[<code>
+</a>
+<a href="https://www.mongodb.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</code>](https://www.mongodb.com)
-[<code>
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-</code>](https://www.microsoft.com/en-us/sql-server)
-[<code>
+</a>
+<a href="https://www.postman.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</code>](https://www.postman.com)
-[<code>
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> 
-</code>](https://dotnet.microsoft.com/en-us/apps/xamarin)
+</a>
 
 > Version Control:
 
-[<code>
+<a href="https://git-scm.com/" target="_blank">
 <img alt="Git" width="40px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
+</a>
+<a href="https://github.com/" target="_blank">
 <img alt="github" width="40px" src="https://img.icons8.com/ios-glyphs/240/ffffff/github.png">
-</code>](https://github.com/)
+</a>
 
 > Operative Systems:
 
-[<code>
+<a href="https://docs.microsoft.com/en-us/windows/terminal/" target="_blank">
 <img alt="terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
+</a>
+<a href="https://www.microsoft.com/en-us/windows" target="_blank">
 <img alt="windows" width="40px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
+</a>
+<a href="https://ubuntu.com/" target="_blank">
 <img alt="ubuntu" width="40px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
+</a>
+<a href="https://developer.apple.com/macos/" target="_blank">
 <img alt="macos" width="40px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
-[<code>
+</a>
+<a href="https://www.kernel.org/" target="_blank">
 <img alt="linux" width="40px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+</a>
   
-> Cloud Cmputing | Hosting  
+> Cloud Computing | Hosting  
 
-[<code>
+<a href="https://docs.microsoft.com/en-us/azure/?product=popular" target="_blank">
 <img alt="Azure" width="40px" src="https://swimburger.net/media/ppnn3pcl/azure.png">
-</code>](https://docs.microsoft.com/en-us/azure/?product=popular)
-[<code>
+</a>
+<a href="https://cloud.google.com/" target="_blank">
 <img alt="Google Cloud" width="40px" src="https://play-lh.googleusercontent.com/RyoQTmHnxsxPYabsETmWVXHtLorVh_yOO48hsdv2VmI-Uki4qt5c5vV1cicJODV56A4">
-</code>](https://cloud.google.com/)
+</a>
 
 ---
 
