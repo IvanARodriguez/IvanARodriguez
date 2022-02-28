@@ -1,9 +1,11 @@
 ![](https://raw.githubusercontent.com/IvanARodriguez/IvanARodriguez/main/bannerReadme.png)
 
 
-# Hi there, I am Ivan
+# Hi there, I am Ivan 👨🏽‍💻
 
-## A software developer student 👨🏻‍🎓 with a strong passion for computer programming. Currently working on several web apps and static project 👨🏻‍💻 to continue learning and using emerging technologies.
+## A software developer student with a strong passion for computer programming. Currently working on several web apps and static project to continue learning and using emerging technologies.
+
+<br /> 
 
 ### Languages and Tools:
 
@@ -61,7 +63,7 @@
 <img alt="Git" width="40px" src="https://img.icons8.com/color/240/000000/git.png">
 </code>](https://git-scm.com/)
 [<code>
-<img alt="github" width="40px" src="https://img.icons8.com/ios-glyphs/240/ffffff/github.png">
+<img alt="github" width="45px" height=""100% src="https://img.icons8.com/ios-glyphs/240/ffffff/github.png">
 </code>](https://github.com/)
 
 > Operative Systems:
@@ -105,19 +107,25 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 - 💬 Ask me about **MVC, SQL, OOP**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
 <a href="https://twitter.com/ivanarodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanarodriguez" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ivanrodriguezcalvo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanrodriguezcalvo" height="30" width="40" /></a>
 <a href="https://instagram.com/ivancitooficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivancitooficial" height="30" width="40" /></a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanarodriguez&show_icons=true&locale=en&layout=compact" alt="ivanarodriguez" /></p>
+<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanarodriguez&show_icons=true&locale=en&layout=compact" alt="ivanarodriguez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanarodriguez&show_icons=true&locale=en" alt="ivanarodriguez" /></p>
+<p>&nbsp;<img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=ivanarodriguez&show_icons=true&locale=en" alt="ivanarodriguez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanarodriguez&" alt="ivanarodriguez" /></p>
+<br />
+
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanarodriguez&" alt="ivanarodriguez" /></p>
 
 
 <!--
