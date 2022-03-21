@@ -3,7 +3,7 @@
 
 # Hi there, I am Ivan 👨🏽‍💻
 
-## A software developer student with a strong passion for computer programming. Currently working on several web apps and static project to continue learning and using emerging technologies.
+## A software developer with a strong passion for computer programming. Currently working on several web apps and static project to continue learning and using emerging technologies.
 
 <br /> 
 
